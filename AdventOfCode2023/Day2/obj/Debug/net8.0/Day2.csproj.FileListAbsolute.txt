@@ -1,0 +1,15 @@
+C:\xampp\htdocs\REPOSGIT\REPOS PERSO\AdventOfCode2023\AdventOfCode2023\Day2\bin\Debug\net8.0\Day2.exe
+C:\xampp\htdocs\REPOSGIT\REPOS PERSO\AdventOfCode2023\AdventOfCode2023\Day2\bin\Debug\net8.0\Day2.deps.json
+C:\xampp\htdocs\REPOSGIT\REPOS PERSO\AdventOfCode2023\AdventOfCode2023\Day2\bin\Debug\net8.0\Day2.runtimeconfig.json
+C:\xampp\htdocs\REPOSGIT\REPOS PERSO\AdventOfCode2023\AdventOfCode2023\Day2\bin\Debug\net8.0\Day2.dll
+C:\xampp\htdocs\REPOSGIT\REPOS PERSO\AdventOfCode2023\AdventOfCode2023\Day2\bin\Debug\net8.0\Day2.pdb
+C:\xampp\htdocs\REPOSGIT\REPOS PERSO\AdventOfCode2023\AdventOfCode2023\Day2\obj\Debug\net8.0\Day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\REPOSGIT\REPOS PERSO\AdventOfCode2023\AdventOfCode2023\Day2\obj\Debug\net8.0\Day2.AssemblyInfoInputs.cache
+C:\xampp\htdocs\REPOSGIT\REPOS PERSO\AdventOfCode2023\AdventOfCode2023\Day2\obj\Debug\net8.0\Day2.AssemblyInfo.cs
+C:\xampp\htdocs\REPOSGIT\REPOS PERSO\AdventOfCode2023\AdventOfCode2023\Day2\obj\Debug\net8.0\Day2.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\REPOSGIT\REPOS PERSO\AdventOfCode2023\AdventOfCode2023\Day2\obj\Debug\net8.0\Day2.sourcelink.json
+C:\xampp\htdocs\REPOSGIT\REPOS PERSO\AdventOfCode2023\AdventOfCode2023\Day2\obj\Debug\net8.0\Day2.dll
+C:\xampp\htdocs\REPOSGIT\REPOS PERSO\AdventOfCode2023\AdventOfCode2023\Day2\obj\Debug\net8.0\refint\Day2.dll
+C:\xampp\htdocs\REPOSGIT\REPOS PERSO\AdventOfCode2023\AdventOfCode2023\Day2\obj\Debug\net8.0\Day2.pdb
+C:\xampp\htdocs\REPOSGIT\REPOS PERSO\AdventOfCode2023\AdventOfCode2023\Day2\obj\Debug\net8.0\Day2.genruntimeconfig.cache
+C:\xampp\htdocs\REPOSGIT\REPOS PERSO\AdventOfCode2023\AdventOfCode2023\Day2\obj\Debug\net8.0\ref\Day2.dll
